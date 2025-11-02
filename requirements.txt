@@ -1,0 +1,11 @@
+flask
+tensorflow>=2.11
+opencv-python
+mtcnn
+numpy
+pillow
+werkzeug
+scikit-learn
+matplotlib
+pandas
+gunicorn
